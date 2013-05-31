@@ -1,0 +1,4 @@
+== Kalvi
+
+Kalvi is a LMS for corporates, released under LGPL.
+
