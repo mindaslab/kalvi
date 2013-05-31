@@ -1,4 +1,10 @@
 Kalvi::Application.routes.draw do
+  resources :lessons
+
+
+  resources :companies
+
+
   resources :courses
 
 
